@@ -1,6 +1,9 @@
 <h1>Hi, I'm Dana! </h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
+
+- [Date Cleaning](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [Active Directory Home Lab](https://github.com/danartech/ActiveDirectoryLab)
@@ -8,45 +11,45 @@
 
 <h2>Certifications:</h2>
 
-## 📊 Google Data Analytics Professional Certificate
-[![Google Data Analytics Professional Certificate](images/Google_Data_Analytics_Professional_Certificate.png)](https://www.credly.com/badges/ea72ed20-e855-4fb4-b9a9-b0681e1d005c/public_url)
-
-## 🛡️ CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification
-[![CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification](images/CompTIA_Secure_Infrastructure_Specialist.png)](link_to_certification)
-
 ## 🔐 CompTIA Security+ ce Certification
-[![CompTIA Security+ ce Certification](images/CompTIA_Security+_ce.png)](link_to_certification)
-
-## 🐍 Python for Data Science and AI
-[![Python for Data Science and AI](images/Python_for_Data_Science_and_AI.png)](link_to_certification)
-
-## ☁️ Introduction to Cloud Computing
-[![Introduction to Cloud Computing](images/Introduction_to_Cloud_Computing.png)](link_to_certification)
-
-## 🚀 DevOps Essentials
-[![DevOps Essentials](images/DevOps_Essentials.png)](link_to_certification)
-
-## ☁️ AWS Certified Cloud Practitioner
-[![AWS Certified Cloud Practitioner](images/AWS_Certified_Cloud_Practitioner.png)](link_to_certification)
-
-## 🖥️ CompTIA IT Operations Specialist – CIOS Stackable Certification
-[![CompTIA IT Operations Specialist – CIOS Stackable Certification](images/CompTIA_IT_Operations_Specialist.png)](link_to_certification)
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/ab411b1b-2f15-4161-8340-78d1071d077c/public_url)
+<img src="https://i.imgur.com/9YtURZR.png" alt="Comptia Security+" width="100"/>
 
 ## 🌐 CompTIA Network+ ce Certification
-[![CompTIA Network+ ce Certification](images/CompTIA_Network+_ce.png)](link_to_certification)
-
-## 🎓 Google/CompTIA dual credential
-[![Google/CompTIA dual credential](images/Google_CompTIA_dual_credential.png)](link_to_certification)
+- [CompTIA Network+ ce Certification](https://www.credly.com/badges/e49b2a76-d09c-4e72-8f7f-4839f9d6bc8f/public_url)
+<img src="https://i.imgur.com/KQNAdOm.png" alt="Network+" width="100"/>
 
 ## 💻 CompTIA A+ ce Certification
-[![CompTIA A+ ce Certification](https://imgur.com/a/a5HITMd)](https://www.credly.com/badges/d273c5b6-a92a-481b-9bfc-fdd1a81cbdc9/public_url)
+- [CompTIA A+ ce Certification]([https://imgur.com/a/a5HITMd](https://www.credly.com/badges/d273c5b6-a92a-481b-9bfc-fdd1a81cbdc9/public_url))
+<img src="https://i.imgur.com/a1N480G.png" alt="COMPTIA A+" width="100"/>
+
+## ☁️ AWS Certified Cloud Practitioner
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d41c123-b789-4582-9d4e-fd317f2bbb2e/public_url)
+<img src="https://i.imgur.com/GsL3t5t.png" alt="AWS" width="100"/>
+
+## 📘 Microsoft Certified: Azure Fundamentals
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/DanaRobinson-5540/ADC24F83CC636771?sharingId=D08918252DFABD21)
+<img src="https://i.imgur.com/hOW7rTQ.png" alt="Microsoft Certified: Azure Fundamentals" width="100"/>
+
+## 📊 Google Data Analytics Professional Certificate
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/4ed75de36411d7d5c0389e2d61a2c2ff)
+<img src="https://i.imgur.com/lctxOq1.png" alt="Google Data Analytics " width="100"/>
 
 ## 🔒 Google Cybersecurity Certificate
-[![Google Cybersecurity Certificate](images/Google_Cybersecurity_Certificate.png)](link_to_certification)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/68cc3a44-5686-42d8-8745-81de1fc071e1/public_url)
+<img src="https://i.imgur.com/FAkm4Zi.png" alt="Dana Robinson" width="100"/>
 
 ## 🛠️ Google IT Support Professional Certificate
-[![Google IT Support Professional Certificate](images/Google_IT_Support_Professional_Certificate.png)](link_to_certification)
+- [Google IT Support Professional Certificate](https://www.credly.com/badges/7f5c8e1d-7c71-4b53-94a1-8440218cfb97/public_url)
+<img src="https://i.imgur.com/t7zm1cY.png" alt="Dana Robinson" width="100"/>
 
+## 🐍 Python for Data Science and AI
+- [Python for Data Science and AI](https://www.credly.com/badges/4f0fcef8-75d4-4114-9ccc-20a10d21f494/public_url)
+<img src="https://i.imgur.com/xiEJ7PF.png" alt="Python for Data Science and AI" width="100"/>
+
+## 🚀 DevOps Essentials
+- [DevOps Essentials](https://www.credly.com/badges/f69eaab3-761a-47bd-85ed-dde1ea5aa652/public_url)
+<img src="https://i.imgur.com/hYLpafU.png" alt="DevOps and AI" width="100"/>
 
 
 <h2> 🤳 Connect with me:</h2>
