@@ -6,8 +6,11 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/danartech/ActiveDirectoryLab)
+- [Coming Soon]
+
 <h2>👨‍💻 Cloud Projects:</h2>
+
+- [Coming Soon]
 
 <h2>Certifications:</h2>
 
@@ -20,7 +23,7 @@
 <img src="https://i.imgur.com/KQNAdOm.png" alt="Network+" width="100"/>
 
 ## 💻 CompTIA A+ ce Certification
-- [CompTIA A+ ce Certification]([https://imgur.com/a/a5HITMd](https://www.credly.com/badges/d273c5b6-a92a-481b-9bfc-fdd1a81cbdc9/public_url))
+- [CompTIA A+ ce Certification](https://www.credly.com/badges/d273c5b6-a92a-481b-9bfc-fdd1a81cbdc9/public_url)
 <img src="https://i.imgur.com/a1N480G.png" alt="COMPTIA A+" width="100"/>
 
 ## ☁️ AWS Certified Cloud Practitioner
