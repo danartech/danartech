@@ -1,10 +1,41 @@
-# Hello, I'm Dana
-<a href="https://linkedin.com/in/dana-robinson-acct/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1>Hi, I'm Dana! </h1>
 
-I am a driven professional with a Master's in Accounting & Financial Management, a Bachelor's in Technical Management with a minor in Criminal Justice, and currently pursuing a Bachelor's in Cybersecurity at Western Governors University. With a diverse background in accounting, IT support, and education, I bring a unique blend of skills in financial analysis, cybersecurity, and data-driven decision-making. My passion lies in cybersecurity, where I aim to apply my expertise in financial analysis and technology to protect digital assets and mitigate cyber threats.
+<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cloud Projects:</h2>
 
-## Objective
-
-My diverse background in accounting, financial management, and technical support has fueled my passion for cybersecurity and data analytics. I am now eager to transition into the cybersecurity field, leveraging my expertise to contribute to the security landscape. With a focus on continuous learning and a current pursuit of a Bachelor's in Cybersecurity at Western Governors University, I aim to apply my skills and knowledge to excel in roles such as a Security Operations Center (SOC) Analyst. I am dedicated to making a meaningful impact in safeguarding digital assets and mitigating cyber threats.
+ - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
+<h2>Certifications:</h2>
+
+- [CompTIA A+](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA Network+](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Azure Fundamentals AZ-900](https://github.com/joshmadakor1/Algorithms-Practice)
+- [AWS Certified Cloud Practioner](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Google IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="DanaRobinson| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/dana-robinson-acct/
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
