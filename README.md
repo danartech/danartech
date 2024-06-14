@@ -3,6 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - [Date Cleaning](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
+- [Date Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA/tree/main)
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
