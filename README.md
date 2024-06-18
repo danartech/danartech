@@ -13,8 +13,9 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - [Date Cleaning](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
-- [Date Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA/tree/main)
+- [Date Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA)
 - [Excel Data Analysis Project](https://github.com/danartech/Excel-Data-Analysis-Project)
+- [AirBnB Tabeau Project](https://github.com/danartech/AirBnB-Tableau-Project)
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
