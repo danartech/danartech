@@ -49,16 +49,16 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/DanaRobinson-5540/ADC24F83CC636771?sharingId=D08918252DFABD21)
 <img src="https://i.imgur.com/hOW7rTQ.png" alt="Microsoft Certified: Azure Fundamentals" width="100"/>
 
-## 📊 Google Data Analytics Professional Certificate
-- [Google Data Analytics Professional Certificate](https://coursera.org/share/4ed75de36411d7d5c0389e2d61a2c2ff)
+## 📊 Google Data Analytics Certificate
+- [Google Data Analytics Certificate](https://coursera.org/share/4ed75de36411d7d5c0389e2d61a2c2ff)
 <img src="https://i.imgur.com/lctxOq1.png" alt="Google Data Analytics " width="100"/>
 
 ## 🔒 Google Cybersecurity Certificate
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/68cc3a44-5686-42d8-8745-81de1fc071e1/public_url)
 <img src="https://i.imgur.com/FAkm4Zi.png" alt="Dana Robinson" width="100"/>
 
-## 🛠️ Google IT Support Professional Certificate
-- [Google IT Support Professional Certificate](https://www.credly.com/badges/7f5c8e1d-7c71-4b53-94a1-8440218cfb97/public_url)
+## 🛠️ Google IT Support Certificate
+- [Google IT Support Certificate](https://www.credly.com/badges/7f5c8e1d-7c71-4b53-94a1-8440218cfb97/public_url)
 <img src="https://i.imgur.com/t7zm1cY.png" alt="Dana Robinson" width="100"/>
 
 ## 🐍 Python for Data Science and AI
