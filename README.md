@@ -18,6 +18,7 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Excel Data Analysis Project](https://github.com/danartech/Excel-Data-Analysis-Project)
 - [AirBnB Tableau Project](https://github.com/danartech/AirBnB-Tableau-Project)
 - [Power BI Project](https://github.com/danartech/Power-BI-Project)
+- [BMI Calculator Python Project](https://github.com/danartech/BMI-Calculator_Python-Project)
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
