@@ -18,6 +18,9 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Excel Data Analysis Project](https://github.com/danartech/Excel-Data-Analysis-Project)
   - Description: Analyzed datasets in Excel, created pivot tables, and visualized data with charts and graphs.
 
+-[Excel Data Analysis- Dashboard Reporting Project](https://github.com/danartech/Excel-Data-Analysis-Dashboard-Project)
+  -Leveraged Microsoft Excel to create an interactive data analysis dashboard, showcasing skills in data cleaning, advanced functions, VBA macros, and dynamic visualization.
+
 ### SQL Projects
 - [Data Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA)
   - Description: Explored datasets using SQL queries, performed data cleaning, and conducted exploratory data analysis.
