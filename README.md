@@ -1,4 +1,5 @@
 <h1>Hi, I'm Dana! </h1>
+
 # Welcome to My GitHub Profile!
 
 ## About Me
@@ -8,20 +9,35 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 
 ## Contact Me
 - **Email**: [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
-- **LinkedIn**: https://www.linkedin.com/in/dana-robinson-acct
-- **Website**: https://danartech.github.io/DanaTheAnalyst.github.io
+- **LinkedIn**: [https://www.linkedin.com/in/dana-robinson-acct](https://www.linkedin.com/in/dana-robinson-acct)
+- **Website**: [https://danartech.github.io/DanaTheAnalyst.github.io](https://danartech.github.io/DanaTheAnalyst.github.io)
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- [Date Cleaning](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
-- [Date Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA)
+### Excel Projects
 - [Excel Data Analysis Project](https://github.com/danartech/Excel-Data-Analysis-Project)
+  - Description: Analyzed datasets in Excel, created pivot tables, and visualized data with charts and graphs.
+
+### SQL Projects
+- [Data Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA)
+  - Description: Explored datasets using SQL queries, performed data cleaning, and conducted exploratory data analysis.
+
+### Tableau Projects
 - [AirBnB Tableau Project](https://github.com/danartech/AirBnB-Tableau-Project)
+  - Description: Analyzed AirBnB dataset, created interactive visualizations and dashboards in Tableau.
+
+### Power BI Projects
 - [Power BI Project](https://github.com/danartech/Power-BI-Project)
+  - Description: Developed interactive dashboards and reports using Power BI to visualize business data.
+
+### Python Projects
 - [BMI Calculator Python Project](https://github.com/danartech/BMI-Calculator_Python-Project)
-- [Automatic File Sorter-Using Python](https://github.com/danartech/Automated-File-Sorter-Using-Python)
+  - Description: Created a BMI calculator that categorizes BMI and provides personalized feedback.
+- [Automatic File Sorter Using Python](https://github.com/danartech/Automated-File-Sorter-Using-Python)
+  - Description: Automated file sorting by organizing files into designated folders based on their file types.
 - [Web Scraping Python Project](https://github.com/danartech/Web-Scraping-in-Python)
-  
+  - Description: Scraped data from websites, processed it with pandas, and saved it as CSV files for analysis.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Coming Soon]
@@ -72,7 +88,6 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [DevOps Essentials](https://www.credly.com/badges/f69eaab3-761a-47bd-85ed-dde1ea5aa652/public_url)
 <img src="https://i.imgur.com/hYLpafU.png" alt="DevOps and AI" width="100"/>
 
-
 <h2>Additional Interests:</h2>
 
 - Data Science and Machine Learning
@@ -85,10 +100,6 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 [<img align="left" alt="DanaRobinson| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/dana-robinson-acct/
-
-
-
-
 
 
 
