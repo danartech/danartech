@@ -25,6 +25,9 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 ### SQL Projects
 - [Data Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA)
   - Description: Explored datasets using SQL queries, performed data cleaning, and conducted exploratory data analysis.
+ 
+- [Data Cleaning SQL Project](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
+  - Description: Cleaned housing data using MySQL Server to ensure data accuracy and integrity.
 
 ### Tableau Projects
 - [AirBnB Tableau Project](https://github.com/danartech/AirBnB-Tableau-Project)
