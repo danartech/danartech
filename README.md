@@ -37,6 +37,8 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
   - Description: Developed interactive dashboards and reports using Power BI to visualize business data.
 
 ### Python Projects
+- [Black Friday Excel Data Analysis In Python](https://github.com/danartech/Black-Friday-Excel-Data-Analysis-In-Python)
+  - Description: Analyzed ski shop sales data during Black Friday using Python and Excel.
 - [BMI Calculator Python Project](https://github.com/danartech/BMI-Calculator_Python-Project)
   - Description: Created a BMI calculator that categorizes BMI and provides personalized feedback.
 - [Automatic File Sorter Using Python](https://github.com/danartech/Automated-File-Sorter-Using-Python)
