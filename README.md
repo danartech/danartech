@@ -30,7 +30,9 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Data Cleaning SQL Project](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
   - **Description:** Cleaned housing data using MySQL Server to ensure data accuracy and integrity.
 - [Maven Movies Data Analysis SQL Project](https://github.com/danartech/Maven-Movies-Data-Analysis-SQL-Project)
-  - **Description:** Conducted in-depth MySQL data analysis for MavenMovies to support insurance policy renewal, providing insights into staff demographics, inventory management, customer behavior, and financial risk assessment. 
+  - **Description:** Conducted in-depth MySQL data analysis for MavenMovies to support insurance policy renewal, providing insights into staff demographics, inventory management, customer behavior, and financial risk assessment.
+- [Maven Movies Data Analysis BI Project](https://github.com/danartech/Maven-Movies-Business-Intelligence-Project)
+  - **Description:** Leveraging MySQL to extract and analyze data from the MavenMovies database, providing comprehensive insights into business operations for a potential acquisition evaluation. 
 
 ### Tableau Projects
 [View All Tableau Projects](https://github.com/danartech/Tableau-Projects)
