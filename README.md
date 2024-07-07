@@ -14,7 +14,8 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-### Excel Projects
+### Excel Projects 
+[View All Excel Projects](https://github.com/danartech/Excel-Projects)
 - [Excel Data Analysis Project](https://github.com/danartech/Excel-Data-Analysis-Project)
   - Description: Analyzed datasets in Excel, created pivot tables, and visualized data with charts and graphs.
 - [Excel Data Analysis Dashboard Reporting Project](https://github.com/danartech/Excel-Data-Analysis-Dashboard-Project)
@@ -23,20 +24,24 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
   - Description: This project focuses on analyzing coffee sales data to derive meaningful insights that can guide business decisions. Through various data analysis techniques, I examined sales trends, customer preferences, and performance metrics.
 
 ### SQL Projects
+[View All SQL Projects](https://github.com/danartech/SQL-Projects)
 - [Data Exploration in SQL](https://github.com/danartech/Portfolio-Project-EDA)
   - Description: Explored datasets using SQL queries, performed data cleaning, and conducted exploratory data analysis.
  - [Data Cleaning SQL Project](https://github.com/danartech/Portfolio-Project-Data-Cleaning)
   - Description: Cleaned housing data using MySQL Server to ensure data accuracy and integrity.
 
 ### Tableau Projects
+[View All Tableau Projects](https://github.com/danartech/Tableau-Projects)
 - [AirBnB Tableau Project](https://github.com/danartech/AirBnB-Tableau-Project)
   - Description: Analyzed AirBnB dataset, created interactive visualizations and dashboards in Tableau.
 
 ### Power BI Projects
-- [Power BI Project](https://github.com/danartech/Power-BI-Project)
+[View All Power BI Projects](https://github.com/danartech/Power-BI-Projects)
+- [Power BI Survey Analysis Project](https://github.com/danartech/Power-BI-Project)
   - Description: Developed interactive dashboards and reports using Power BI to visualize business data.
 
 ### Python Projects
+[View All Python Projects](https://github.com/danartech/Python-Projects)
 - [Black Friday Excel Data Analysis In Python](https://github.com/danartech/Black-Friday-Excel-Data-Analysis-In-Python)
   - Description: Analyzed ski shop sales data during Black Friday using Python and Excel.
 - [BMI Calculator Python Project](https://github.com/danartech/BMI-Calculator_Python-Project)
