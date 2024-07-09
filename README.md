@@ -22,6 +22,8 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
   - **Description:** Leveraged Microsoft Excel to create an interactive data analysis dashboard, showcasing skills in data cleaning, advanced functions, VBA macros, and dynamic visualization.
 - [Coffee Sales Analysis Project](https://github.com/danartech/Coffee-Sales-Analysis-Excel-Project)
   - **Description:** This project focuses on analyzing coffee sales data to derive meaningful insights that can guide business decisions. Through various data analysis techniques, I examined sales trends, customer preferences, and performance metrics.
+- [Social Buzz Data Analysis Project](https://github.com/danartech/Social-Buzz-Data-Analysis-Project)
+  - **Description:** Led a data analysis project at Accenture for Social Buzz, a social media company, identifying the top five content categories by popularity to inform strategic decisions for their upcoming IPO, utilizing advanced data cleaning, merging techniques, and Excel functions. 
 
 ### SQL Projects
 [View All SQL Projects](https://github.com/danartech/SQL-Projects)
