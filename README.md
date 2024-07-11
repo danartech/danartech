@@ -37,9 +37,18 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
   - **Description:** Leveraging MySQL to extract and analyze data from the Maven Movies database, providing comprehensive insights into business operations for a potential acquisition evaluation. 
 
 ### Tableau Projects
-[View All Tableau Projects](https://github.com/danartech/Tableau-Projects)
-- [AirBnB Tableau Project](https://github.com/danartech/AirBnB-Tableau-Project)
-  - **Description:** Analyzed AirBnB dataset, created interactive visualizations and dashboards in Tableau.
+[View All Tableau Projects](https://public.tableau.com/app/profile/dana.robinson)
+- [AirBnB Tableau Project](https://public.tableau.com/app/profile/dana.robinson/viz/AirBnBFullProject_17186788518380/AirBNBTableauProject)
+
+- [Tesla Stick Price AnalyticsTableau Project](https://public.tableau.com/views/TeslaStockPriceAnalytics_DanaRobinson/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+ - [Superstore Sales Analysis Tableau Project](https://public.tableau.com/views/SuperstoreSalesAgentAnalytics_DanaRobinson/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+ - [MyPaper Accounts Receivable Analysis Tableau Project](https://public.tableau.com/views/MyPaperAccountsReceivableDashboard_DanaRobinson/AccountsReceivableDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- [Discount Mart Sales Analytics Project](https://public.tableau.com/views/Discount_Mart_Dashboard_17206517771260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- [Green Destinations HR Analytics Project](https://public.tableau.com/views/GreenDestinationHRAnalyticsByDanaRobinson/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Power BI Projects
 [View All Power BI Projects](https://github.com/danartech/Power-BI-Projects)
