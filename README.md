@@ -71,6 +71,8 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
   - **Description**: Configuring high availability for an Employee Directory application using AWS Application Load Balancer, EC2 Auto Scaling, and Launch Templates.
 - [AWS S3 and DynamoDB Employee Directory Project](https://github.com/danartech/s3-dynamodb-employee-directory)
   - **Description**: Integrating Amazon S3 and DynamoDB with an Employee Directory application to manage employee images and information.
+- [AWS IAM Exploration Project](https://github.com/danartech/aws-iam-exploration)
+  - **Description**: Exploring AWS Identity and Access Management (IAM) by managing users, groups, and policies to control access to AWS resources.
  
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
