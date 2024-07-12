@@ -68,9 +68,9 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 
 ### Cloud Projects
 - [AWS Cloud High Availability Employee Directory Project](https://github.com/danartech/high-availability-employee-directory)
-  - **Description**: In this project, I configured high availability for the Employee Directory application. This involved creating an Application Load Balancer, a launch template, and an Auto Scaling group. The application was stress-tested to validate the scaling.
+  - **Description**: Configuring high availability for an Employee Directory application using AWS Application Load Balancer, EC2 Auto Scaling, and Launch Templates.
 - [AWS S3 and DynamoDB Employee Directory Project](https://github.com/danartech/s3-dynamodb-employee-directory)
-  - **Description**: This project focused on customizing the Employee Directory application to include employee images and information using Amazon S3 and Amazon DynamoDB.
+  - **Description**: Integrating Amazon S3 and DynamoDB with an Employee Directory application to manage employee images and information.
  
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
