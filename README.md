@@ -79,7 +79,7 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
   - **Description**:  This project involves creating and managing a MySQL database instance on Amazon Web Services (AWS) RDS. 
 
 ### Network Projects
-- [Network Configuration and Troubleshooting= Cisco Packet Tracer](https://github.com/danartech/Network-Configuration-and-Troubleshooting)
+- [Network Configuration and Troubleshooting- Cisco Packet Tracer](https://github.com/danartech/Network-Configuration-and-Troubleshooting)
   - **Description**:  This project involves configuring and troubleshooting a network using Cisco Packet Tracer.
     
   <h2>👨‍💻 Cybersecurity Projects:</h2>
