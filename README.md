@@ -74,8 +74,14 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [AWS IAM Exploration Project](https://github.com/danartech/aws-iam-exploration)
   - **Description**: Exploring AWS Identity and Access Management (IAM) by managing users, groups, and policies to control access to AWS resources.
 - [Created a Virtual Machine on Azure Project](https://github.com/danartech/Azure-Virtual-Machine-Project)
-  - **Description**: This project involves creating and configuring a virtual machine on Microsoft Azure. 
- 
+  - **Description**: This project involves creating and configuring a virtual machine on Microsoft Azure.
+- [AWS RDS MySQL Database Setup Project](https://github.com/danartech/AWS-RDS-MySQL-Database-Setup)
+  - **Description**:  This project involves creating and managing a MySQL database instance on Amazon Web Services (AWS) RDS. 
+
+### Network Projects
+- [Network Configuration and Troubleshooting= Cisco Packet Tracer](https://github.com/danartech/Network-Configuration-and-Troubleshooting)
+  - **Description**:  This project involves configuring and troubleshooting a network using Cisco Packet Tracer.
+    
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - **[Coming Soon]**
