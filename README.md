@@ -72,7 +72,9 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- **[Coming Soon]**
+### AWS Cloud Projects
+#### [AWS Cloud High Availability Employee Directory Project](https://github.com/danartech/high-availability-employee-directory)
+- **Description**: In this project, I configured high availability for the Employee Directory application. This involved creating an Application Load Balancer, a launch template, and an Auto Scaling group. The application was stress-tested to validate the scaling.
 
 <h2>Certifications:</h2>
 
