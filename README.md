@@ -66,15 +66,15 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Web Scraping Python Project](https://github.com/danartech/Web-Scraping-in-Python)
   - **Description**: Scraped data from websites, processed it with pandas, and saved it as CSV files for analysis.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- **[Coming Soon]**
-
 ### Cloud Projects
 - [AWS Cloud High Availability Employee Directory Project](https://github.com/danartech/high-availability-employee-directory)
   - **Description**: In this project, I configured high availability for the Employee Directory application. This involved creating an Application Load Balancer, a launch template, and an Auto Scaling group. The application was stress-tested to validate the scaling.
-- [AWS S3 and DynamoDB Employee Directory Project](https://github.com/danartech/high-availability-employee-directory)
+- [AWS S3 and DynamoDB Employee Directory Project](https://github.com/danartech/s3-dynamodb-employee-directory)
   - **Description**: This project focused on customizing the Employee Directory application to include employee images and information using Amazon S3 and Amazon DynamoDB.
+ 
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- **[Coming Soon]**
 
 <h2>Certifications:</h2>
 
