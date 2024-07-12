@@ -40,11 +40,11 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 [View All Tableau Projects](https://public.tableau.com/app/profile/dana.robinson)
 - [AirBnB Tableau Project](https://public.tableau.com/app/profile/dana.robinson/viz/AirBnBFullProject_17186788518380/AirBNBTableauProject)
 
-- [Tesla Stick Price AnalyticsTableau Project](https://public.tableau.com/views/TeslaStockPriceAnalytics_DanaRobinson/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tesla Stock Price Analytics Tableau Project](https://public.tableau.com/views/TeslaStockPriceAnalytics_DanaRobinson/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
- - [Superstore Sales Analysis Tableau Project](https://public.tableau.com/views/SuperstoreSalesAgentAnalytics_DanaRobinson/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Superstore Sales Analysis Tableau Project](https://public.tableau.com/views/SuperstoreSalesAgentAnalytics_DanaRobinson/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
- - [MyPaper Accounts Receivable Analysis Tableau Project](https://public.tableau.com/views/MyPaperAccountsReceivableDashboard_DanaRobinson/AccountsReceivableDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [MyPaper Accounts Receivable Analysis Tableau Project](https://public.tableau.com/views/MyPaperAccountsReceivableDashboard_DanaRobinson/AccountsReceivableDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - [Discount Mart Sales Analytics Project](https://public.tableau.com/views/Discount_Mart_Dashboard_17206517771260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
