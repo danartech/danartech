@@ -26,7 +26,7 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
   - **Description:** Led a data analysis project at Accenture for Social Buzz, a social media company, identifying the top five content categories by popularity to inform strategic decisions for their upcoming IPO, utilizing advanced data cleaning, merging techniques, and Excel functions.
 - [Healthcare Analytics Dashboard - Excel Project](https://github.com/danartech/Healthcare-Analytics-Excel)
   - **Description:** Analyzed healthcare data to derive actionable insights for improved patient care and resource allocation using Excel and SQL, visualized through interactive dashboards.
-- [New York Jobs CEO Council Financial Analyst Job Simulation](https://github.com/danartech/Financial-Analysis-of-BigTechCompany)
+- [New York Jobs CEO Council-Financial Analyst Job Simulation](https://github.com/danartech/Financial-Analysis-of-BigTechCompany)
   - **Description:** Comprehensive financial analysis of BigTechCompany to assess historical performance, customer trends, and future projections for strategic client relationship decisions. 
 
 ### SQL Projects
