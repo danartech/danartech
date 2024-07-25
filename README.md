@@ -21,6 +21,25 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
     <img src="https://github.com/danartech/Honeynet-Azure-Project/blob/main/Screenshot%202024-07-24%20174223.png" alt="World Map of Cyber Attacks" width="600">
   </p>
 
+<h2>👨‍💻 Cloud Projects:</h2>
+
+### Cloud Projects
+- [AWS Cloud High Availability Employee Directory Project](https://github.com/danartech/high-availability-employee-directory)
+  - **Description**: Configuring high availability for an Employee Directory application using AWS Application Load Balancer, EC2 Auto Scaling, and Launch Templates.
+- [AWS S3 and DynamoDB Employee Directory Project](https://github.com/danartech/s3-dynamodb-employee-directory)
+  - **Description**: Integrating Amazon S3 and DynamoDB with an Employee Directory application to manage employee images and information.
+- [AWS IAM Exploration Project](https://github.com/danartech/aws-iam-exploration)
+  - **Description**: Exploring AWS Identity and Access Management (IAM) by managing users, groups, and policies to control access to AWS resources.
+- [Created a Virtual Machine on Azure Project](https://github.com/danartech/Azure-Virtual-Machine-Project)
+  - **Description**: This project involves creating and configuring a virtual machine on Microsoft Azure.
+- [AWS RDS MySQL Database Setup Project](https://github.com/danartech/AWS-RDS-MySQL-Database-Setup)
+  - **Description**:  This project involves creating and managing a MySQL database instance on Amazon Web Services (AWS) RDS. 
+
+<h2>👨‍💻 Network Projects:</h2>
+
+### Network Projects
+- [Network Configuration and Troubleshooting- Cisco Packet Tracer](https://github.com/danartech/Network-Configuration-and-Troubleshooting)
+  - **Description**:  This project involves configuring and troubleshooting a network using Cisco Packet Tracer.
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
@@ -80,22 +99,7 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Web Scraping Python Project](https://github.com/danartech/Web-Scraping-in-Python)
   - **Description**: Scraped data from websites, processed it with pandas, and saved it as CSV files for analysis.
 
-### Cloud Projects
-- [AWS Cloud High Availability Employee Directory Project](https://github.com/danartech/high-availability-employee-directory)
-  - **Description**: Configuring high availability for an Employee Directory application using AWS Application Load Balancer, EC2 Auto Scaling, and Launch Templates.
-- [AWS S3 and DynamoDB Employee Directory Project](https://github.com/danartech/s3-dynamodb-employee-directory)
-  - **Description**: Integrating Amazon S3 and DynamoDB with an Employee Directory application to manage employee images and information.
-- [AWS IAM Exploration Project](https://github.com/danartech/aws-iam-exploration)
-  - **Description**: Exploring AWS Identity and Access Management (IAM) by managing users, groups, and policies to control access to AWS resources.
-- [Created a Virtual Machine on Azure Project](https://github.com/danartech/Azure-Virtual-Machine-Project)
-  - **Description**: This project involves creating and configuring a virtual machine on Microsoft Azure.
-- [AWS RDS MySQL Database Setup Project](https://github.com/danartech/AWS-RDS-MySQL-Database-Setup)
-  - **Description**:  This project involves creating and managing a MySQL database instance on Amazon Web Services (AWS) RDS. 
 
-### Network Projects
-- [Network Configuration and Troubleshooting- Cisco Packet Tracer](https://github.com/danartech/Network-Configuration-and-Troubleshooting)
-  - **Description**:  This project involves configuring and troubleshooting a network using Cisco Packet Tracer.
-    
 <h2>Certifications:</h2>
 
 ## 🔐 CompTIA Security+ ce Certification
