@@ -41,6 +41,19 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Network Configuration and Troubleshooting- Cisco Packet Tracer](https://github.com/danartech/Network-Configuration-and-Troubleshooting)
   - **Description**:  This project involves configuring and troubleshooting a network using Cisco Packet Tracer.
 
+<h2>👨‍💻 Python Projects:</h2>
+
+### Python Projects
+[View All Python Projects](https://github.com/danartech/Python-Projects)
+- [Black Friday Excel Data Analysis In Python](https://github.com/danartech/Black-Friday-Excel-Data-Analysis-In-Python)
+  - **Description:** Analyzed ski shop sales data during Black Friday using Python and Excel.
+- [BMI Calculator Python Project](https://github.com/danartech/BMI-Calculator_Python-Project)
+  - **Description:** Created a BMI calculator that categorizes BMI and provides personalized feedback.
+- [Automatic File Sorter Using Python](https://github.com/danartech/Automated-File-Sorter-Using-Python)
+  - **Description:** Automated file sorting by organizing files into designated folders based on their file types.
+- [Web Scraping Python Project](https://github.com/danartech/Web-Scraping-in-Python)
+  - **Description**: Scraped data from websites, processed it with pandas, and saved it as CSV files for analysis.
+
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 ### Excel Projects 
@@ -87,17 +100,6 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 [View All Power BI Projects](https://github.com/danartech/Power-BI-Projects)
 - [Power BI Survey Analysis Project](https://github.com/danartech/Power-BI-Project)
   - **Description:** Developed interactive dashboards and reports using Power BI to visualize business data.
-
-### Python Projects
-[View All Python Projects](https://github.com/danartech/Python-Projects)
-- [Black Friday Excel Data Analysis In Python](https://github.com/danartech/Black-Friday-Excel-Data-Analysis-In-Python)
-  - **Description:** Analyzed ski shop sales data during Black Friday using Python and Excel.
-- [BMI Calculator Python Project](https://github.com/danartech/BMI-Calculator_Python-Project)
-  - **Description:** Created a BMI calculator that categorizes BMI and provides personalized feedback.
-- [Automatic File Sorter Using Python](https://github.com/danartech/Automated-File-Sorter-Using-Python)
-  - **Description:** Automated file sorting by organizing files into designated folders based on their file types.
-- [Web Scraping Python Project](https://github.com/danartech/Web-Scraping-in-Python)
-  - **Description**: Scraped data from websites, processed it with pandas, and saved it as CSV files for analysis.
 
 
 <h2>Certifications:</h2>
