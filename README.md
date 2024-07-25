@@ -12,6 +12,16 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - **LinkedIn**: [https://www.linkedin.com/in/dana-robinson-acct](https://www.linkedin.com/in/dana-robinson-acct)
 - **Website**: [https://danartech.github.io/DanaTheAnalyst.github.io](https://danartech.github.io/DanaTheAnalyst.github.io)
 
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- **[Azure Sentinel Honeypot Project](https://github.com/danartech/Honeynet-Azure-Project)**
+  - **Description:** This project involves setting up a honeypot in Azure to attract cyber attackers, with the aim of collecting and analyzing data on failed RDP login attempts. The data is visualized using Microsoft Sentinel to identify geographic trends and attack patterns. The project utilizes custom PowerShell scripts and a third-party API for geolocation.
+
+  <p align="center">
+    <img src="https://github.com/danartech/Honeynet-Azure-Project/blob/main/Screenshot%202024-07-24%20174223.png" alt="World Map of Cyber Attacks" width="600">
+  </p>
+
+
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 ### Excel Projects 
@@ -86,10 +96,6 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Network Configuration and Troubleshooting- Cisco Packet Tracer](https://github.com/danartech/Network-Configuration-and-Troubleshooting)
   - **Description**:  This project involves configuring and troubleshooting a network using Cisco Packet Tracer.
     
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- **[Coming Soon]**
-
 <h2>Certifications:</h2>
 
 ## 🔐 CompTIA Security+ ce Certification
