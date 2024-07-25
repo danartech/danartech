@@ -54,7 +54,7 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Web Scraping Python Project](https://github.com/danartech/Web-Scraping-in-Python)
   - **Description**: Scraped data from websites, processed it with pandas, and saved it as CSV files for analysis.
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Data & Financial Analysis Projects:</h2>
 
 ### Excel Projects 
 [View All Excel Projects](https://github.com/danartech/Excel-Projects)
