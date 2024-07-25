@@ -10,7 +10,7 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 ## Contact Me
 - **Email**: [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/dana-robinson-acct](https://www.linkedin.com/in/dana-robinson-acct)
-- **Website**: [https://danartech.github.io/DanaTheAnalyst.github.io](https://danartech.github.io/DanaTheAnalyst.github.io)
+- **Website**: [https://danartech.github.io/DanaTheAnalyst.github.io](https://danafintech.net/)
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
