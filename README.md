@@ -83,6 +83,8 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
   - **Description:** Leveraging MySQL to extract and analyze data from the Maven Movies database, providing comprehensive insights into business operations for a potential acquisition evaluation.
 - [Retail Data Management System DBA SQL Project](https://github.com/danartech/Retail-Data-Management-System)
   - **Description:** Designed and implemented a retail data management system to track customer purchases, manage product and employee information, and ensure secure access through role-based user accounts.
+- [Database Normalization and Optimization DBA - SQL Project](https://github.com/danartech/Database-Normalization-and-Optimization/blob/main/README.md)
+  - **Description:** This project involved reorganizing a database by normalizing data into separate tables for inventory, films, and stores to improve efficiency, data integrity, and scalability.
 
 ### Tableau Projects
 [View All Tableau Projects](https://public.tableau.com/app/profile/dana.robinson)
