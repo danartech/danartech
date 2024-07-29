@@ -80,7 +80,9 @@ I am passionate about leveraging data to drive insights and solutions, and I enj
 - [Maven Movies Data Analysis SQL Project](https://github.com/danartech/Maven-Movies-Data-Analysis-SQL-Project)
   - **Description:** Conducted in-depth MySQL data analysis for Maven Movies to support insurance policy renewal, providing insights into staff demographics, inventory management, customer behavior, and financial risk assessment.
 - [Maven Movies Data Analysis BI Project](https://github.com/danartech/Maven-Movies-Business-Intelligence-Project)
-  - **Description:** Leveraging MySQL to extract and analyze data from the Maven Movies database, providing comprehensive insights into business operations for a potential acquisition evaluation. 
+  - **Description:** Leveraging MySQL to extract and analyze data from the Maven Movies database, providing comprehensive insights into business operations for a potential acquisition evaluation.
+- [Retail Data Management System DBA SQL Project](https://github.com/danartech/Retail-Data-Management-System)
+  - **Description:** Designed and implemented a retail data management system to track customer purchases, manage product and employee information, and ensure secure access through role-based user accounts.
 
 ### Tableau Projects
 [View All Tableau Projects](https://public.tableau.com/app/profile/dana.robinson)
